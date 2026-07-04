@@ -1,4 +1,3 @@
-# mid 18.19 pm 
 
 # HOW TO BUILD A SECOND REPOSITORY OR REPO 
 
@@ -34,3 +33,15 @@
 ## jebakan yang pernah aku alamin
 - dquote> = kutip belum ketutup, keluarnya control+C
 - git status 
+
+## cara buka file ini 
+- cd ~/Documents/learnpartone
+- git pull
+- open -e catatan-git.md
+
+## kalau udah langsung jalanin kaya biasa command s atau save 
+
+- git status
+- git add .
+- git commit -m "benerin judul catatan"
+- git push
