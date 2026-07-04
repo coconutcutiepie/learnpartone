@@ -13,7 +13,7 @@ hello im coco, i want to learn github
 - clone dan commit dari terminal!
 - learn again how to open text edit and edit the ext haha 
 
-##How to edit the text 
+## How to edit the text 
 
 - cd ~/Documents/learnpartone
 - open -e README.md
