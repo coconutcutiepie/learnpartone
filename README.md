@@ -31,5 +31,8 @@ hello im coco, i want to learn github
 
 
 ## branch itu dunia pararel dari kode aku 
+- belajar git pull: narik perubahan dari github ke laptop
+- testing pertama dulu yaa
+  
 
 
