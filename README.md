@@ -19,7 +19,7 @@ hello im coco, i want to learn github
 - open -e README.md
 - git status
 - git add .
-- git commit -m "pesan singkat"
+- git commit -m "pesan singkat/judulnya di tagar mana"
 - git push
 
 ## learn how to use git pull dan branch GitHub 
@@ -40,4 +40,12 @@ hello im coco, i want to learn github
 - kalo udah di push udah aman 
 
 
+
+
+
+
+## catatan dari branch eksperimen
+
+- baris ini ditulis di dunia paralel! 
+- ini aku lagi belajar git branch atau ngedit di dunia pararel 
 
