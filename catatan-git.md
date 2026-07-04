@@ -10,9 +10,9 @@
 - kan kalo langsung open -e file belum ada makanya "touch" dulu 
 
 
-# isi file nya di TextEdit 
+- isi file nya di TextEdit 
 
-# catatan git aku
+- catatan git aku hari ini 
 
 ## siklus harian
 - cd ~/Documents/learnpartone   # 1. masuk folder repo
