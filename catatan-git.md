@@ -1,9 +1,10 @@
+# catatan git aku 
 
-# HOW TO BUILD A SECOND REPOSITORY OR REPO 
+## how to add new file In repo 
 
 - cd ~/Documents/learnpartone git pull
 - outputnya udah already up to date , artinya good 
-- build a sec repo 
+- bikin file baru di dalam repo 
 - git switch -c catatan
 - touch catatan-git.md open -e catatan-git.md
 - touch itu bikin file kosong baru 
