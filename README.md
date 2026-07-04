@@ -30,9 +30,14 @@ hello im coco, i want to learn github
 
 
 
-## branch itu dunia pararel dari kode aku 
-- belajar git pull: narik perubahan dari github ke laptop
-- testing pertama dulu yaa
-  
+## learn git pull 
+
+- kalo error dan nyangkut coba di git pull 
+- verifikasi dulu posisi aku tadi di terminal sampe mana 
+- git status dulu 
+- lanjut ketik git commit -m "catatan : text edit , git pull and branch "
+- titik dua ga boleh kelewat karena nanti error dan kalau error ketik cmd +c 
+- kalo udah di push udah aman 
+
 
 
