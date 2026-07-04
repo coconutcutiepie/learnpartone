@@ -7,7 +7,7 @@ hello im coco, i want to learn github
 
 ##  yang lagi dipelajari 
 
--bikin repository
--edit README
--commit pertama!
+- bikin repository
+- edit README
+- commit pertama!
 
