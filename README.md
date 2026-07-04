@@ -11,4 +11,5 @@ hello im coco, i want to learn github
 - edit README
 - commit pertama!
 - clone dan commit dari terminal!
+- learn again how to open text edit and edit the ext haha 
 
