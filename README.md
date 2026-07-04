@@ -10,4 +10,5 @@ hello im coco, i want to learn github
 - bikin repository
 - edit README
 - commit pertama!
+- clone dan commit dari terminal!
 
