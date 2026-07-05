@@ -49,3 +49,8 @@ hello im coco, i want to learn github
 - baris ini ditulis di dunia paralel! 
 - ini aku lagi belajar git branch atau ngedit di dunia pararel 
 
+## failure that I need to remember 
+
+- kalau salah ketik dan keluar dquote I need to click control panah katas di keyboard bawah sebelah kiri dan C secara bersamaan 
+_ nanti akan kembali normal dan langsung lanjutkan lagi 
+
