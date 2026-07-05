@@ -1,7 +1,8 @@
 #   learnpartone
 coco first learn how to use git haha :3
 
-##  tentang aku 
+
+## about me 
 
 hello im coco, i want to learn github 
 
@@ -24,7 +25,7 @@ hello im coco, i want to learn github
 
 ## learn how to use git pull dan branch GitHub 
 
-- push itu kirim commit dari laptop ke git 
+- push itu kirim commit dari laptop ke github 
 - pull itu tarik commit dari GitHub 
 - git pull dulu sebelum ngedit apapun biar selalu mulai dari versi terbaru 
 
@@ -32,14 +33,13 @@ hello im coco, i want to learn github
 
 ## learn git pull 
 
-- kalo error dan nyangkut coba di git pull 
-- verifikasi dulu posisi aku tadi di terminal sampe mana 
-- git status dulu 
-- lanjut ketik git commit -m "catatan : text edit , git pull and branch "
-- titik dua ga boleh kelewat karena nanti error dan kalau error ketik cmd +c 
-- kalo udah di push udah aman 
-
-
+- git pull itu narik perubahan dari GitHub ke laptop
+- git pull dulu SEBELUM mulai ngedit, biar mulai dari versi terbaru
+- git pull bukan obat error! kalo terminal nyangkut (muncul dquote>) itu artinya tanda kutip    "belum ditutup" 
+- keluar dari nyangkut: tekan control + C (tombol pojok kiri bawah, BUKAN cmd!)
+- cmd + C itu cuma copy, ga bisa batalin perintah
+- pesan commit bebas mau pake titik dua atau ngga, yang wajib itu kutipnya sepasang: buka " tutup "
+- kalo bingung posisi lagi di mana: git status dulu
 
 
 
