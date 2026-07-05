@@ -1,6 +1,10 @@
 #   learnpartone
 coco first learn how to use git haha :3
 
+## daftar isi
+
+- [01 - dasar git](01-dasar-git/catatan.md)
+- [03 - undo](03-undo/catatan.md)
 
 ## about me 
 
