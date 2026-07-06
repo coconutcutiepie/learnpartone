@@ -37,3 +37,25 @@ Hari ini nulis kode swift pertama pake swift playground
 - bug ≠ selalu salah ketik, bisa juga SALAH URUTAN (logic bug)
 - cara: run dulu → tonton di mana mulai ngaco → benerin bagian itu doang
 
+- level 4 loops 
+ Loop = pengulangan: "lakukan 10x
+
+Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4 kali berturut-turut. Cara lamamu:
+
+- moveForward()
+- moveForward()
+- turnLeft()
+- moveForward()
+- collectGem()
+- moveForward()
+- turnLeft()
+- moveForward()
+- moveForward()
+- toggleSwitch()
+
+- cara baru pakai for loop 
+
+- for i in 1 ... 4 {
+    moveForward()
+    collectGem()
+}
