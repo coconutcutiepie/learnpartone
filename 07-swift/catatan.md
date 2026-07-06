@@ -4,6 +4,8 @@ Hari ini nulis kode swift pertama pake swift playground
 
 # byte loves to collect gems with moveForwards()
 
+- level 1 moveForward()
+
 - moveForward()
 - moveForward()
 - moveForward()
@@ -27,3 +29,11 @@ Hari ini nulis kode swift pertama pake swift playground
 - toggleSwitch()
 
 #progess part 2 done byte , next level 3
+
+
+- level 3 bug and debugging 
+07-swift/catatan.md → tambahin:
+- level 3: debugging = nemuin & benerin bug
+- bug ≠ selalu salah ketik, bisa juga SALAH URUTAN (logic bug)
+- cara: run dulu → tonton di mana mulai ngaco → benerin bagian itu doang
+
