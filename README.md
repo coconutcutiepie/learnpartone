@@ -4,8 +4,10 @@ coco first learn how to use git haha :3
 ## daftar isi
 
 - [01 - dasar git](01-dasar-git/catatan.md)
-- [02 - Pull dan branch] (02-pull-dan-branch.catatan.md)
+- [02 - pull dan branch](02-pull-dan-branch/catatan.md)
 - [03 - undo](03-undo/catatan.md)
+- [04 - pull request](04-pull-request/catatan.md)
+- [05 - gitignore](05-gitignore/catatan.md)
 
 ## about me 
 
