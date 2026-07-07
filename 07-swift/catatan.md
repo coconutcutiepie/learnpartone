@@ -59,3 +59,10 @@ Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4
     moveForward()
     collectGem()
 }
+
+## hari 2: if dan else
+
+- else = jalur "kalau nggak": if iya kerjain A, else kerjain B
+- dari 2 jalur PASTI TEPAT SATU yang jalan
+- if else + loop = kode pendek yang siap ngadepin peta acak
+- collectGem() di kotak kosong = error, jangan asal else
