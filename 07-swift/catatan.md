@@ -79,4 +79,4 @@ Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4
 ## pelajaran dari "very creative!"
 
 - lolos puzzle ≠ pake cara yang bener, playgrounds bisa nyindir 😂
-- jangan ada toggleSwitch() / collectGem() telanjang — semua harus dijaga if
+- jangan ada toggleSwitch() / collectGem() telanjang — semua harus dijaga if else nya 
