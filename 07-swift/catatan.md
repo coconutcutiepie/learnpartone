@@ -66,3 +66,17 @@ Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4
 - dari 2 jalur PASTI TEPAT SATU yang jalan
 - if else + loop = kode pendek yang siap ngadepin peta acak
 - collectGem() di kotak kosong = error, jangan asal else
+
+## else if — rantai pengecekan
+
+- else biasa itu BUTA: asal bukan A langsung kerjain B (bahaya di kotak kosong!)
+- else if = else yang ikut ngecek dulu: "kalau bukan switch, TAPI ada permata, baru ambil"
+- if isOnClosedSwitch { toggleSwitch() } else if isOnGem { collectGem() }
+- kalau dua duanya nggak cocok → skip, aman di kotak kosong
+- rantainya bisa panjang: if → else if → else if → else
+- komputer ngecek URUT dari atas, berhenti di yang PERTAMA cocok
+
+## pelajaran dari "very creative!"
+
+- lolos puzzle ≠ pake cara yang bener, playgrounds bisa nyindir 😂
+- jangan ada toggleSwitch() / collectGem() telanjang — semua harus dijaga if
