@@ -1,4 +1,4 @@
-Hari ini nulis kode swift pertama pake swift playground 
+azaz Hari ini nulis kode swift pertama pake swift playground 
 
 ## byte 
 
@@ -80,3 +80,7 @@ Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4
 
 - lolos puzzle ≠ pake cara yang bener, playgrounds bisa nyindir 😂
 - jangan ada toggleSwitch() / collectGem() telanjang — semua harus dijaga if else nya 
+
+## bab else if
+
+— Belajar hal baru di Byte: buka Swift Playgrounds, lanjut Next Page dari posisimu. Setelah else if, biasanya muncul operator logika (&& = "dan", || = "atau", ! = "bukan") atau while loop. Kerjain 1-2 puzzle aja, nggak usah maraton.
