@@ -84,3 +84,23 @@ Masalah yang dia selesaikan simpel banget. Misal Byte harus maju-ambil-permata 4
 ## bab else if
 
 — Belajar hal baru di Byte: buka Swift Playgrounds, lanjut Next Page dari posisimu. Setelah else if, biasanya muncul operator logika (&& = "dan", || = "atau", ! = "bukan") atau while loop. Kerjain 1-2 puzzle aja, nggak usah maraton.
+
+## challenge: conditional climb 🧗
+
+kode yang berhasil (dari 19 baris manual jadi 7 baris):
+
+```swift
+for i in 1 ... 16 {
+    if isOnGem {
+        collectGem()
+        turnLeft()
+    } else {
+        moveForward()
+    }
+}
+```
+
+- daripada NGITUNG langkah, byte NGECEK tiap kotak sendiri
+- ada permata? ambil + belok. kosong? maju
+- angka 16 harus pas: kurang = byte berhenti di tengah, kelebihan = nyemplung
+- inget: tiap belok makan 1 putaran yang ga jalan maju
