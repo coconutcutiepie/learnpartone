@@ -104,3 +104,10 @@ for i in 1 ... 16 {
 - ada permata? ambil + belok. kosong? maju
 - angka 16 harus pas: kurang = byte berhenti di tengah, kelebihan = nyemplung
 - inget: tiap belok makan 1 putaran yang ga jalan maju
+
+## NOT operator (!) — solved 🏆
+
+- ! = membalik boolean: true jadi false, false jadi true
+- !isOnGem = "kalau TIDAK ada permata di kotak ini"
+- kepake buat deteksi situasi khusus: kotak kosong = tangga muncul = permata di bawah
+- kalau ada permata → collect langsung (else)
