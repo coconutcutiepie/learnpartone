@@ -1,4 +1,5 @@
-azaz Hari ini nulis kode swift pertama pake swift playground 
+ Hari ini nulis kode swift pertama pake swift playground // camelCase
+
 
 ## byte 
 
