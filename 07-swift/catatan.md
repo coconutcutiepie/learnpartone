@@ -112,3 +112,16 @@ for i in 1 ... 16 {
 - !isOnGem = "kalau TIDAK ada permata di kotak ini"
 - kepake buat deteksi situasi khusus: kotak kosong = tangga muncul = permata di bawah
 - kalau ada permata → collect langsung (else)
+
+## logical operator itu yang mengolah TRUE/FALSE 
+
+# operator nya itu ada && , || dan ! 
+
+- && ; And/Dan 
+- || ; OR / atau 
+- !  ; Not/Tidak 
+
+- contohnya panas && panas bali 
+- contohnya endorse || gaji 
+- contohnya !isBlocked 
+
