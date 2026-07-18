@@ -125,3 +125,24 @@ for i in 1 ... 16 {
 - contohnya endorse || gaji 
 - contohnya !isBlocked 
 
+
+## variables
+
+- var = kotak yang BISA diubah isinya, let = kotak yang TERKUNCI
+- var gemCounter = 0 → bikin kotak nama gemCounter, isi 0
+- gemCounter = 1 → update isi kotak (tanpa var lagi, soalnya udah dibikin)
+- = itu bukan "sama dengan", artinya "ISI DENGAN"
+
+## aritmatika
+
+- + - * / itu operator matematika biasa
+- skor = skor - 2 → ambil isi skor sekarang, kurangin 2, simpen lagi
+- shortcut: += -= itu "tambahin/kurangin ke diri sendiri"
+- contoh: jumlahPermata += 1 (tiap collect, nambah 1)
+
+## error yang pernah kealamin
+
+- "Type annotation missing" = strukturnya berantakan, swift bingung
+- cek lagi: nama variabel jangan nempel sama kata lain (gemCounterto ❌)
+- = buat kasih nilai, ; bukan buat itu
+
